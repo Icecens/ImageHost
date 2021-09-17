@@ -1,2 +1,2 @@
-# MDPicture
-Image hosting service for my MD notes.
+# ImageHost
+Image hosting service, mainly for my MD notes.
